@@ -69,14 +69,9 @@ p {
   width: 110px;
   height: 110px;
   
-  background: linear-gradient(122.32deg, #E42424 13.13%, #E8CC76 56.27%, #1C8DCC 95.15%);
+  /*background: linear-gradient(122.32deg, #E42424 13.13%, #E8CC76 56.27%, #1C8DCC 95.15%);*/
   border-radius: 50%;
-  animation: circleRotate 4s linear infinite;
-}
-
-@keyframes circleRotate {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+  /*animation: circleRotate 4s linear infinite;*/
 }
 
 .card {
